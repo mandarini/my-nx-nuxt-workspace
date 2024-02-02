@@ -1,0 +1,8 @@
+{
+  "name": "my-vue-lib-3",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/my-vue-lib-3/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
