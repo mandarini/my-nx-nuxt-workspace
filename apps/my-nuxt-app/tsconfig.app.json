@@ -3,5 +3,5 @@
   "compilerOptions": {
     "composite": true
   },
-  "exclude": []
+  "exclude": ["**/*.stories.ts", "**/*.stories.js"]
 }
