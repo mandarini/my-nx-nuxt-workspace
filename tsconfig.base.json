@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@my-nuxt-workspace/my-vue-lib-1": ["libs/my-vue-lib-1/src/index.ts"],
+      "@my-nuxt-workspace/my-vue-lib-2": ["libs/my-vue-lib-2/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
