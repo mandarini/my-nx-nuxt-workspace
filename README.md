@@ -22,6 +22,10 @@ nx serve my-nuxt-app
 nx graph
 ```
 
+## For types
+
+Check out [apps/my-nuxt-app-2](apps/my-nuxt-app-2). In there, I am including the types from the `.nuxt` directory.
+
 ## Documentation
 
 Read more about the Nx Nuxt plugin here:
