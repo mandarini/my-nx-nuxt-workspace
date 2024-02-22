@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     },
   },
   imports: {
-    autoImport: false,
+    autoImport: true,
   },
   css: ['~/assets/css/styles.css'],
   vite: {
